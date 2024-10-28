@@ -5,6 +5,10 @@ public class Automovil {
     private String color;
     private Double cilindrage;
 
+    public Automovil(){
+
+    }
+
     public void setFabricante(String fabricante){
         this.fabricante = fabricante;
     }
